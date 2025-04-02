@@ -36,4 +36,4 @@
 
 ---
 
-![Vibe Coding](https://upload.wikimedia.org/wikipedia/commons/8/8b/Vibe_coding.jpg)
+![Vibe Coding](https://en.m.wikipedia.org/wiki/Vibe_coding)
