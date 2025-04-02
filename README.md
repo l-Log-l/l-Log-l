@@ -17,7 +17,7 @@
 
 ## 📽️ Projects
 
-...
+- [SMP Planet](https://discord.gg/4c6bsEWuDE) - Minecraft project
 
 ---
 
