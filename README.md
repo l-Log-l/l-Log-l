@@ -1,16 +1,41 @@
-## Hi there 👋
+# 🐊 Log
 
-<!--
-**l-Log-l/l-Log-l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**BackEnd Developer** | **Vibe Coding Enthusiast**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Languages and Tools
+
+<div align="center">  
+  <img alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />  
+  <img alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />  
+  <img alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />  
+  <img alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />  
+  <img alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />  
+  <img alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />  
+</div>  
+
+---
+
+## 📽️ Projects
+
+...
+
+---
+
+## 🧑‍💻 Stats
+
+<a href="https://github.com/l-Log-l">  
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=l-Log-l&show_icons=true&theme=tokyonight&hide=issues" alt="l-Log-l" />  
+</a>  
+<a href="https://github.com/l-Log-l">  
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=l-Log-l&show_icons=true&theme=tokyonight&layout=compact" alt="l-Log-l" />  
+</a>  
+<br clear="left"/>  
+<div align="center">  
+  <p>Number of profile views:<br><img src="https://profile-counter.glitch.me/l-Log-l/count.svg"></p>  
+</div>  
+
+---
+
+![Vibe Coding](https://upload.wikimedia.org/wikipedia/commons/8/8b/Vibe_coding.jpg)
